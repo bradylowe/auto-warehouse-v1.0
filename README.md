@@ -11,6 +11,7 @@ https://youtu.be/pjHFhZs4xt4
 
 ## *How to use:*
  - Clone the project to your computer.
+ - If you have Linux, you can download and run one of the executables built with these assets. 
  - Read the documentation and look at any videos I have made available on the Assets in the Assets folder.
  - Figure out which assets you are looking for (materials, forklift prefabs, control scripts, etc.)
  - Grab the assets that you think will best suit your needs and import it into your project's assets (drag and drop).
