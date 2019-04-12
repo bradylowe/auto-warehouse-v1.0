@@ -4,10 +4,23 @@ Simulation environment of warehouse for creating automation AI.
 ## Link to youtube video of gameplay
 https://youtu.be/pjHFhZs4xt4
 
+---
+
 ## Examples
 
-Human-controllable players
-![](https://gfycat.com/TidyForsakenEsok)
+**Human-controllable players for testing and training**
+![](human-vs-cpu.gif)
+
+**Various scenes and props for testing various functionality**
+![](stacks-of-pallets.gif)
+
+**Collision and delivery tracking for model evaluation**
+![](collision-tracking.gif)
+
+**Multiple perspectives for easy inspection**
+![](multiple-perspectives.gif)
+
+---
 
 ## *Dependencies:*
  - Unity3D (not sure how new your version needs to be, but maybe 2017.1 and up)
