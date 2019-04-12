@@ -4,6 +4,11 @@ Simulation environment of warehouse for creating automation AI.
 ## Link to youtube video of gameplay
 https://youtu.be/pjHFhZs4xt4
 
+## Examples
+
+Human-controllable players
+![](https://gfycat.com/TidyForsakenEsok)
+
 ## *Dependencies:*
  - Unity3D (not sure how new your version needs to be, but maybe 2017.1 and up)
  - Unity's NavMesh plugin (if you don't already have it by default)
