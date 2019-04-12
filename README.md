@@ -9,16 +9,16 @@ https://youtu.be/pjHFhZs4xt4
 ## Examples
 
 **Human-controllable players for testing and training**
-![](human-vs-cpu.gif)
+![](gifs/human-vs-cpu.gif)
 
 **Various scenes and props for testing various functionality**
-![](stacks-of-pallets.gif)
+![](gifs/stacks-of-pallets.gif)
 
 **Collision and delivery tracking for model evaluation**
-![](collision-tracking.gif)
+![](gifs/collision-tracking.gif)
 
 **Multiple perspectives for easy inspection**
-![](multiple-perspectives.gif)
+![](gifs/multiple-perspectives.gif)
 
 ---
 
